@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This will contain all my practice of nodejs and expressjs following a tutorial by freeCodeCamp.\r Link of the tutorial is : https://www.youtube.com/watch?v=Oe421EPjeBE&t=2145s&ab_channel=freeCodeCamp.org",
+  "main": "01-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanSaeed0411/Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanSaeed0411/Nodejs/issues"
+  },
+  "homepage": "https://github.com/RohanSaeed0411/Nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
