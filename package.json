@@ -4,7 +4,11 @@
   "description": "This will contain all my practice of nodejs and expressjs following a tutorial by freeCodeCamp.\r Link of the tutorial is : https://www.youtube.com/watch?v=Oe421EPjeBE&t=2145s&ab_channel=freeCodeCamp.org",
   "main": "01-intro.js",
   "scripts": {
+<<<<<<< HEAD
     "start":"nodemon app.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> e57ffcef449c2d48fe09261056b26a2dc69c7c87
   },
   "repository": {
     "type": "git",
